@@ -14,6 +14,8 @@ w para escribir q para salir !signo admiración para que salga inmeditamente
 git remote add origin https://github.com/VergaraVictor/youtube-git.git
 git branch -M main
 git push -u origin main
-12. git push 
+12. git push
+13. git commit -am // este comando es para hacer el git add y el commit al tiempo esto sirve cuando solo se trabaj un archivo
+
 
 
